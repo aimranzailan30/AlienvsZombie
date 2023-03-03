@@ -28,8 +28,11 @@ Game Controls :
 To learn the game controls, press "h" on the keyboard. To summerize,
 
 Up = W
+
 Down = S
+
 Left = A
+
 Right = D
 
 
